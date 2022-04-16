@@ -1,10 +1,9 @@
 {
-  "homepage": "http://davistr.github.io/photo-port",
+  "homepage": "https://davistr.github.io/photo-port/",
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "-": "^0.0.1",
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
